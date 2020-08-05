@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Projeto_SO_socket.dir/client.c.o CMakeFiles/Projeto_SO_socket.dir/server.c.o  -o Projeto_SO_socket 

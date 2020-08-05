@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rubenjorge/Desktop/Projeto_SO_socket/lib_util.c
+time.h
+-
+stdio.h
+-
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+
+/home/rubenjorge/Desktop/Projeto_SO_socket/server.c
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+string.h
+-
+wait.h
+-
+sys/un.h
+-
+sys/uio.h
+-
+sys/socket.h
+-
+lib_util.c
+/home/rubenjorge/Desktop/Projeto_SO_socket/lib_util.c
+
